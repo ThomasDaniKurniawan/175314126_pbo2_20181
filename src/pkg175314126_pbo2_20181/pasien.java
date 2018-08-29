@@ -12,5 +12,5 @@ package pkg175314126_pbo2_20181;
 public class pasien {
     private String nama;
     
-  
+  public pasien(){ }
 }
